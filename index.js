@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Nadie mas que tu, te conoci de la nada y hoy muero por ver tu mirada')
+    alert('JAJAJ si bro ya se, pinche chaparra <3')
 });
 
 const noBtn = document.querySelector('#noBtn');
